@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0rsmordre&label=Profile%20views&color=0e75b6&style=flat" alt="m0rsmordre" /> </p>
 
 <!--
 **m0rsmordre/m0rsmordre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
